@@ -3,7 +3,9 @@
 ```
 git clone --depth=1 git@github.com:Ganevru/create-react-app-tut.git create-react-app-tut
 
-rm -rf !$/.git
+cd create-react-app-tut
+
+rm -rf .git
 ```
 
 ## From Create React App
